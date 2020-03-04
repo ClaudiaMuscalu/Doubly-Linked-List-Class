@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558126875 source:c:\users\claudia\desktop\poo_3\main.cpp
+	<iostream>
+	<string.h>
+	<new>
+
